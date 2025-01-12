@@ -1,0 +1,8 @@
+# Here is the tree of the project (excluded items omitted):
+
+image-input-handler
+    ├── README.md
+    ├── image_input_handler
+    │   ├── __init__.py
+    │   └── image_input_handler.py
+    └── setup.py
